@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "pathology",
+      "label": "Pathology",
+      "terms": [
+        {
+          "answer": "fibrous dysplasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_001.jpg",
+          "note": "",
+          "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone_ craniofacial and dental implications - Burke - 2017 -.png"
+        },
+        {
+          "answer": "dentigerous cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_002.jpg",
+          "note": "",
+          "source_filename": "2026-04-25 13_40_53-Dentigerous Cyst - Dr. Paul Mirdamadi — Mozilla Firefox.png"
+        },
+        {
+          "answer": "radicular cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_003.jpg",
+          "note": "",
+          "source_filename": "2026-04-25 13_41_33-radicular cyst - Google Search — Mozilla Firefox.png"
+        },
+        {
+          "answer": "keratocyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_004.jpg",
+          "note": "",
+          "source_filename": "2026-04-25 13_41_59-keratocyst - Google Search — Mozilla Firefox.png"
+        },
+        {
+          "answer": "odontoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_005.jpg",
+          "note": "",
+          "source_filename": "2026-04-25 13_43_09-odontoma - Google Search — Mozilla Firefox.png"
+        },
+        {
+          "answer": "ameloblastoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_006.jpg",
+          "note": "",
+          "source_filename": "2026-04-25 13_44_35-ameloblastoma - Google Search — Mozilla Firefox.png"
+        }
+      ]
+    }
+  ]
+}
