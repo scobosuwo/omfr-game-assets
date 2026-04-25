@@ -21,10 +21,10 @@
           "source_filename": "2026-04-25 13_40_53-Dentigerous Cyst.png"
         },
         {
-          "answer": "radicular cyst",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_003.jpg",
-          "etiology_clue": "Proliferation of epithelial rests of Malassez stimulated by periapical inflammatory mediators secondary to pulp necrosis; most common odontogenic cyst",
-          "management_clue": "Root canal treatment for small lesions; surgical enucleation with apicoectomy or extraction for larger cysts; histopathologic confirmation required",
+          "answer": "RET proto oncogene",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_011.jpg",
+          "etiology_clue": "MEN type2",
+          "management_clue": "Encodes a receptor tyrosine kinase (170 kDa) critical for cell signaling in neural crest development, cell differentiation, and growth.",
           "note": "",
           "source_filename": "2026-04-25 13_41_33-radicular cyst.png"
         },
@@ -51,6 +51,14 @@
           "management_clue": "Somatic gene alteration amino acid valine replaced by glutamic acid at position 600 in the BRAF protein. This change causes activation of the MAPK/ERK pathway, driving tumor growth, cell proliferation, and cancer survival.",
           "note": "",
           "source_filename": "2026-04-25 13_44_35-ameloblastoma.png"
+        },
+        {
+          "answer": "SH3BP2",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_008.jpg",
+          "etiology_clue": "Cherubism",
+          "management_clue": "Conservative surgical excision; extraction of associated impacted tooth if present; excellent prognosis with negligible recurrence risk",
+          "note": "",
+          "source_filename": "2026-04-25 13_43_09-odontoma.png"
         }
       ]
     }
