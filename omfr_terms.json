@@ -7,38 +7,50 @@
         {
           "answer": "fibrous dysplasia",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_001.jpg",
+          "etiology_clue": "Sporadic GNAS somatic mutation causing replacement of normal bone with fibrous connective tissue and woven bone; ground glass appearance",
+          "management_clue": "Conservative monitoring when stable; surgical recontouring for functional or aesthetic impairment; bisphosphonates for pain control",
           "note": "",
-          "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone_ craniofacial and dental implications - Burke - 2017 -.png"
+          "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone.png"
         },
         {
           "answer": "dentigerous cyst",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_002.jpg",
+          "etiology_clue": "Accumulation of fluid between the reduced enamel epithelium and crown of an unerupted tooth; most common developmental odontogenic cyst",
+          "management_clue": "Enucleation with extraction of associated impacted tooth; marsupialisation followed by enucleation for large cysts in growing patients",
           "note": "",
-          "source_filename": "2026-04-25 13_40_53-Dentigerous Cyst - Dr. Paul Mirdamadi — Mozilla Firefox.png"
+          "source_filename": "2026-04-25 13_40_53-Dentigerous Cyst.png"
         },
         {
           "answer": "radicular cyst",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_003.jpg",
+          "etiology_clue": "Proliferation of epithelial rests of Malassez stimulated by periapical inflammatory mediators secondary to pulp necrosis; most common odontogenic cyst",
+          "management_clue": "Root canal treatment for small lesions; surgical enucleation with apicoectomy or extraction for larger cysts; histopathologic confirmation required",
           "note": "",
-          "source_filename": "2026-04-25 13_41_33-radicular cyst - Google Search — Mozilla Firefox.png"
+          "source_filename": "2026-04-25 13_41_33-radicular cyst.png"
         },
         {
           "answer": "keratocyst",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_004.jpg",
+          "etiology_clue": "Associated with PTCH1 tumour suppressor gene mutation; parakeratinised stratified squamous epithelium lining with high recurrence potential due to satellite cysts",
+          "management_clue": "Enucleation with Carnoy's solution or peripheral ostectomy; decompression for large lesions; long-term annual radiographic follow-up for recurrence",
           "note": "",
-          "source_filename": "2026-04-25 13_41_59-keratocyst - Google Search — Mozilla Firefox.png"
+          "source_filename": "2026-04-25 13_41_59-keratocyst.png"
         },
         {
           "answer": "odontoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_005.jpg",
+          "etiology_clue": "Hamartomatous odontogenic malformation; compound type resembles rudimentary teeth, complex type forms disorganised calcified mass; most common odontogenic tumour",
+          "management_clue": "Conservative surgical excision; extraction of associated impacted tooth if present; excellent prognosis with negligible recurrence risk",
           "note": "",
-          "source_filename": "2026-04-25 13_43_09-odontoma - Google Search — Mozilla Firefox.png"
+          "source_filename": "2026-04-25 13_43_09-odontoma.png"
         },
         {
           "answer": "ameloblastoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_006.jpg",
+          "etiology_clue": "Arises from remnants of odontogenic epithelium; locally aggressive benign tumour with multilocular soap-bubble pattern and root resorption; BRAF V600E mutation common",
+          "management_clue": "Wide surgical resection with adequate bony margins; reconstruction with bone graft or plate; lifelong radiographic surveillance due to high recurrence rate",
           "note": "",
-          "source_filename": "2026-04-25 13_44_35-ameloblastoma - Google Search — Mozilla Firefox.png"
+          "source_filename": "2026-04-25 13_44_35-ameloblastoma.png"
         }
       ]
     }
