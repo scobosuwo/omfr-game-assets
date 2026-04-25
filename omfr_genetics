@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": "pathology",
+      "label": "Pathology",
+      "terms": [
+        {
+          "answer": "GNAS1",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_001.jpg",
+          "etiology_clue": "Fibrous dysplasia",
+          "management_clue": "On chromosome 20q13.32 encodes the alpha subunit of the stimulatory G protein",
+          "note": "",
+          "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone.png"
+        },
+        {
+          "answer": "dentigerous cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_002.jpg",
+          "etiology_clue": "Accumulation of fluid between the reduced enamel epithelium and crown of an unerupted tooth; most common developmental odontogenic cyst",
+          "management_clue": "Enucleation with extraction of associated impacted tooth; marsupialisation followed by enucleation for large cysts in growing patients",
+          "note": "",
+          "source_filename": "2026-04-25 13_40_53-Dentigerous Cyst.png"
+        },
+        {
+          "answer": "radicular cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_003.jpg",
+          "etiology_clue": "Proliferation of epithelial rests of Malassez stimulated by periapical inflammatory mediators secondary to pulp necrosis; most common odontogenic cyst",
+          "management_clue": "Root canal treatment for small lesions; surgical enucleation with apicoectomy or extraction for larger cysts; histopathologic confirmation required",
+          "note": "",
+          "source_filename": "2026-04-25 13_41_33-radicular cyst.png"
+        },
+        {
+          "answer": "PTCH1",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_004.jpg",
+          "etiology_clue": "Odontogenic keratocyst",
+          "management_clue": "A critical tumor suppressor gene located on chromosome 9, encoding a receptor that regulates cell growth by inhibiting the Sonic Hedgehog (SHH) signaling pathway.",
+          "note": "",
+          "source_filename": "2026-04-25 13_41_59-keratocyst.png"
+        },
+        {
+          "answer": "odontoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_005.jpg",
+          "etiology_clue": "Hamartomatous odontogenic malformation; compound type resembles rudimentary teeth, complex type forms disorganised calcified mass; most common odontogenic tumour",
+          "management_clue": "Conservative surgical excision; extraction of associated impacted tooth if present; excellent prognosis with negligible recurrence risk",
+          "note": "",
+          "source_filename": "2026-04-25 13_43_09-odontoma.png"
+        },
+        {
+          "answer": "BRAF V600E",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_006.jpg",
+          "etiology_clue": "Ameloblastoma",
+          "management_clue": "Somatic gene alteration amino acid valine replaced by glutamic acid at position 600 in the BRAF protein. This change causes activation of the MAPK/ERK pathway, driving tumor growth, cell proliferation, and cancer survival.",
+          "note": "",
+          "source_filename": "2026-04-25 13_44_35-ameloblastoma.png"
+        }
+      ]
+    }
+  ]
+}
