@@ -1,0 +1,122 @@
+{
+  "categories": [
+    {
+      "id": "pathology",
+      "label": "Pathology",
+      "terms": [
+        {
+          "answer": "Adenoid cystic carcinoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/001.jpg",
+          "etiology_clue": "Activation of the oncogenic transcription factor gene MYB. MYB drives proliferation of ACC cells and regulates genes involved in cell cycle control.",
+          "management_clue": "Surgical resection + postoperative radiation therapy",
+          "note": "",
+          "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone.png"
+        },
+        {
+          "answer": "Benign mixed tumor",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/002.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Warthin tumor",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/003.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Mucoepidermoid carcinoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/004.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Malignant mixed tumor",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/005.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "BRAF V600E",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/006.jpg",
+          "etiology_clue": "Ameloblastoma",
+          "management_clue": "Somatic gene alteration amino acid valine replaced by glutamic acid at position 600 in the BRAF protein. This change causes activation of the MAPK/ERK pathway, driving tumor growth, cell proliferation, and cancer survival.",
+          "note": "",
+          "source_filename": "2026-04-25 13_44_35-ameloblastoma.png"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/007.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/008.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/009.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/010.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/011.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/012.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/013.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/014.jpg",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": "null"
+        }
+      ]
+    }
+  ]
+}
