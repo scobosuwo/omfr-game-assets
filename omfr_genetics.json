@@ -37,12 +37,12 @@
           "source_filename": "2026-04-25 13_41_59-keratocyst.png"
         },
         {
-          "answer": "odontoma",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_005.jpg",
-          "etiology_clue": "Hamartomatous odontogenic malformation; compound type resembles rudimentary teeth, complex type forms disorganised calcified mass; most common odontogenic tumour",
-          "management_clue": "Conservative surgical excision; extraction of associated impacted tooth if present; excellent prognosis with negligible recurrence risk",
+          "answer": "SOX9",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_013.jpg",
+          "etiology_clue": "Pierre Robin sequence",
+          "management_clue": "on chromosome 17, which is crucial for lower jaw formation",
           "note": "",
-          "source_filename": "2026-04-25 13_43_09-odontoma.png"
+          "source_filename": "null"
         },
         {
           "answer": "BRAF V600E",
