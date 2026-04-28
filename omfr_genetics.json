@@ -13,10 +13,10 @@
           "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone.png"
         },
         {
-          "answer": "dentigerous cyst",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_002.jpg",
-          "etiology_clue": "Accumulation of fluid between the reduced enamel epithelium and crown of an unerupted tooth; most common developmental odontogenic cyst",
-          "management_clue": "Enucleation with extraction of associated impacted tooth; marsupialisation followed by enucleation for large cysts in growing patients",
+          "answer": "RUNX2",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_012.jpg",
+          "etiology_clue": "Cleidocranial dysplasia",
+          "management_clue": "gene on chromosome 6p21 Gene codes for osteoblast-specific transcription factor",
           "note": "",
           "source_filename": "2026-04-25 13_40_53-Dentigerous Cyst.png"
         },
@@ -26,7 +26,7 @@
           "etiology_clue": "MEN type2",
           "management_clue": "Encodes a receptor tyrosine kinase (170 kDa) critical for cell signaling in neural crest development, cell differentiation, and growth.",
           "note": "",
-          "source_filename": "2026-04-25 13_41_33-radicular cyst.png"
+          "source_filename": "null"
         },
         {
           "answer": "PTCH1",
