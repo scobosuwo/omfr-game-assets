@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": "pathology",
+      "label": "Pathology",
+      "terms": [
+        {
+          "answer": "Gaucher Disease",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/001.jpg",
+          "etiology_clue": "is an autosomal recessive lysosomal storage disorder caused by glucocerebrosidase deficiency resulting in accumulation of glucocerebroside-laden macrophages",
+          "management_clue": "often managed with Enzyme Replacement Therapy (ERT), involving regular infusions to replace the missing enzyme, or Substrate Reduction Therapy (SRT), daily pills that reduce the buildup of fatty substances. ",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Vanishing Bone Disease",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/002.jpg",
+          "etiology_clue": "an extremely rare, often progressive skeletal disorder characterized by the massive, spontaneous destruction (osteolysis) and absorption of bone, which is replaced by vascular fibrous tissue",
+          "management_clue": "Management is symptomatic and includes bisphosphonates to stop bone loss, radiation therapy, and surgical intervention for stabilizing bones or managing complications.",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Hypophosphatemia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/003.jpg",
+          "etiology_clue": "results from mutations in the PHEX gene causing elevated FGF23 levels that produce renal phosphate wasting and impaired vitamin D activation, leading to hypophosphataemic rickets with defective mineralisation of bone and dentine producing enlarged pulp chambers",
+          "management_clue": "burosumab-twza (an anti-FGF23 monoclonal antibody) for children and adults, and conventional therapy (oral phosphate supplements and active vitamin D/calcitriol) to improve bone mineralization, treat rickets, and reduce pain",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Hypophosphatasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/004.jpg",
+          "etiology_clue": "A rare genetic, metabolic disorder causing impaired bone and tooth mineralization due to ALPL gene mutations, resulting in low alkaline phosphatase (ALP) enzyme activity",
+          "management_clue": "Treatment focuses on managing symptoms and improving bone health, with asfotase alfa enzyme replacement therapy",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Cushing Syndrome",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/005.jpg",
+          "etiology_clue": "Results from prolonged excess glucocorticoid exposure causing inhibition of osteoblast function and stimulation of osteoclast activity, producing generalised osteoporosis with decreased jaw bone density",
+          "management_clue": "Restoring normal cortisol levels, typically through surgical removal of the underlying tumor (pituitary, adrenal, or ectopic).",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Thalassemia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/006.jpg",
+          "etiology_clue": "Results from genetic deficiency of alpha or beta globin chain synthesis causing ineffective erythropoiesis and haemolytic anaemia, driving compensatory marrow hyperplasia that expands the medullary spaces of the jaw",
+          "management_clue": "Focuses on correcting anemia and reducing iron overload, typically involving regular blood transfusions, iron chelation therapy to remove excess iron, and folic acid supplements.",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Sickle Cell Anemia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/007.jpg",
+          "etiology_clue": "Results from a point mutation in the beta-globin gene producing haemoglobin S that polymerises under hypoxic conditions causing erythrocyte sickling, vascular occlusion, and infarction",
+          "management_clue": "Key treatments include hydroxyurea to reduce pain, prophylactic penicillin in children, vaccinations, and prompt hydration.",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Vitamin D Deficiency",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/008.jpg",
+          "etiology_clue": "Insufficient sunlight exposure, inadequate dietary intake, or poor absorption, leading to weak bones and muscle pain.",
+          "management_clue": "Treated primarily through high-dose supplements for 1–3 months, followed by daily maintenance doses",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Leukemia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/009.jpg",
+          "etiology_clue": "Produces jaw manifestations through infiltration of the bone marrow by malignant leucocytes that displace normal haematopoietic tissue and stimulate osteoclast activity via cytokine secretion, producing generalised osteoporosis",
+          "management_clue": "Involves tailored treatment plans—often combining chemotherapy, targeted therapies, and stem cell transplants—designed to achieve remission by eliminating cancer cells in the blood and bone marrow",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Hyperparathyroidism",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/010.jpg",
+          "etiology_clue": "Results from parathyroid adenoma or hyperplasia causing excess PTH secretion that drives osteoclast-mediated bone resorption producing hypercalcaemia, hypophosphataemia, generalised osteoporosis, loss of lamina dura, ground-glass trabecular pattern, and focal brown tumours",
+          "management_clue": "Surgical removal of the overactive gland(s) (parathyroidectomy), which offers a high cure rate. For mild or asymptomatic cases, doctors may recommend regular monitoring (watchful waiting)",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Osteomyelitis",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/011.jpg",
+          "etiology_clue": "results from bacterial invasion of the medullary bone, most commonly from odontogenic sources, causing vascular thrombosis and ischaemic necrosis of bone that produces the sequestrum",
+          "management_clue": "Requires a combination of targeted antibiotic therapy (often IV followed by oral) and surgery to remove infected bone (debridement), usually lasting 4–6 weeks or longer. Effective management involves restoring blood flow, cleaning infected tissue, and addressing underlying conditions like diabetes or poor circulation",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Osteoporosis",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group002/012.jpg",
+          "etiology_clue": "Results from imbalanced bone remodelling in which osteoclast-mediated resorption exceeds osteoblast-mediated formation due to oestrogen deficiency, ageing, or secondary causes, producing decreased trabecular bone density",
+          "management_clue": "Involves a combination of medication to increase bone density, weight-bearing and strength exercises to strengthen bones, and proper nutrition (calcium and Vitamin D) to prevent fractures.",
+          "note": "",
+          "source_filename": "null"
+        }
+      ]
+    }
+  ]
+}
