@@ -10,13 +10,13 @@
           "etiology_clue": "Activation of the oncogenic transcription factor gene MYB. MYB drives proliferation of ACC cells and regulates genes involved in cell cycle control.",
           "management_clue": "Surgical resection + postoperative radiation therapy",
           "note": "",
-          "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone.png"
+          "source_filename": "null"
         },
         {
           "answer": "Benign mixed tumor",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/002.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "Unknown; thought to arise from minor salivary gland rests ○ benign tumor arising from distal portions of parotidductal system, including intercalated ducts & acini.",
+          "management_clue": "Complete surgical resection of encapsulated mass within adequate margin of surrounding parotid gland tissue toavoid cellular spillage & seeding.Recurrent tumor difficult to treat.Radiation treatment of uncertain effectiveness",
           "note": "",
           "source_filename": "null"
         },
