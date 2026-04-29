@@ -59,6 +59,14 @@
           "management_clue": "Gene provides instructions for producing an adaptor protein that regulates immune and bone remodeling signaling pathways",
           "note": "",
           "source_filename": "2026-04-25 13_43_09-odontoma.png"
+        },
+        {
+          "answer": "HBB",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_014.jpg",
+          "etiology_clue": "Sickle Cell Anemia",
+          "management_clue": "The beta-globin gene producing haemoglobin S that polymerises under hypoxic conditions.",
+          "note": "",
+          "source_filename": "null"
         }
       ]
     }
