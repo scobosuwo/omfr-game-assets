@@ -45,12 +45,12 @@
           "source_filename": "null"
         },
         {
-          "answer": "BRAF V600E",
+          "answer": "Metastatic Disease of Parotid Nodes",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/006.jpg",
-          "etiology_clue": "Ameloblastoma",
-          "management_clue": "Somatic gene alteration amino acid valine replaced by glutamic acid at position 600 in the BRAF protein. This change causes activation of the MAPK/ERK pathway, driving tumor growth, cell proliferation, and cancer survival.",
+          "etiology_clue": "Lymphangitic or hematogenous spread of tumor Skin of face, external ear, & scalp accounts for 75% of primary tumors Systemic metastases to parotid nodes rare Parotid has intraglandular lymph nodes (unlike submandibular & sublingual glands) Normal parotid: ~ 20 intraglandular nodes Embryology/anatomy Parotid undergoes late encapsulation, incorporating nodes within its parenchyma Parotid "forgotten nodal station"",
+          "management_clue": "Parotidectomy, neck dissection + radiation therapy SCCa: Parotidectomy & neck dissection dictated by imaging & physical exam Postoperative radiotherapy Melanoma: Parotidectomy & neck dissection dictated by lymphatic mapping & sentinel node identification Adjuvant radiotherapy ± chemotherapy depends on context",
           "note": "",
-          "source_filename": "2026-04-25 13_44_35-ameloblastoma.png"
+          "source_filename": "null"
         },
         {
           "answer": "",
