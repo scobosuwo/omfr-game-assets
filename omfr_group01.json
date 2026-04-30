@@ -69,26 +69,26 @@
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Ductal carcinoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/009.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "While often arising de novo, about 25% develop from pre-existing pleomorphic adenoma. Key etiologic drivers include HER2 amplification (20–30%) and androgen receptor (AR) overexpression (>75%)",
+          "management_clue": "Main treatment is wide surgical resection with neck dissection and adjuvant radiation, often with HER2 or AR targeted therapies",
           "note": "",
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Sinonasal squamous cell carcinoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/010.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "Occupational exposure to leather dust, wood dust, nickel, arsenic, formaldehyde have been suggested ○ Smoking increases risk 2-3xInverted papilloma has 5% conversion rate to SNSCCa (2-29% SNSCCa arise from inverted papilloma)",
+          "management_clue": "Surgery, followed by radiotherapy in advanced stages Definitive radiotherapy itself may be as good as surgery and postoperative radiotherapy",
           "note": "",
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Parotid Non-Hodgkin Lymphoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/011.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "Unknown; possibly multifactorial, Environmental, genetic, viral, prior radiation, Increased incidence with autoimmune disorders, Sjögren syndrome most commonly Rheumatoid arthritis, systemic lupus Increased incidence with immunosuppression",
+          "management_clue": "Tumor debulking of parotid mass may be performed for cosmetic purposes .Chemotherapy & radiation remain mainstay of treatment",
           "note": "",
           "source_filename": "null"
         },
