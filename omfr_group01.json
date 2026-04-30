@@ -53,18 +53,18 @@
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Acinic Cell Carcinoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/007.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "it is considered a low-grade malignancy arising from serous acinar cells within salivary glands, most commonly the parotid. Key factors include genetic rearrangements involving the NR4A3 gene, prior radiation exposure, and familial predisposition. It affects a younger population than most salivary tumors, with a slight female preference.",
+          "management_clue": " complete surgical resection. Parotidectomy (removal of the parotid gland) is the standard approach, often with adjuvant radiation for high-grade or incomplete resection. While often curable, the risk of recurrence requires long-term monitoring",
           "note": "",
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Sinonasal adenocarcinoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/008.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "associated with long-term occupational exposure to inhaled carcinogens, with hardwood dust being the leading cause (especially in furniture manufacturing). Other major etiological factors include exposure to softwood dust, leather dust, nickel, chromium, and textile dust. These agents commonly induce intestinal-type adenocarcinoma (ITAC)",
+          "management_clue": "management primarily involves surgical resection, often via endoscopic techniques, followed by adjuvant radiation therapy, especially for high-grade tumors or positive margins. Multidisciplinary care is essential, with treatment often combining endoscopic or open surgery (like maxillectomy) and radiotherapy to improve local control and preserve function",
           "note": "",
           "source_filename": "null"
         },
