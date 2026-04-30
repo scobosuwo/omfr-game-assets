@@ -93,26 +93,26 @@
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Parotid Schwannoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/012.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "Arises from differentiated neoplastic Schwann cells wrapping around CNVI",
+          "management_clue": "Controversial: Tumor is easily dissected from nerve, but facial nerve palsy may result nonetheless Types C and D lesions at greater risk of postoperative facial nerve palsy Choice of treatment depends on function of facial nerve and location of tumor Stereotactic radiosurgery may be used if CNVII intact",
           "note": "",
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Infantile hemangioma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/013.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "The cause of hemangioma is currently unknown, but several studies have suggested the importance of estrogen signaling in proliferation. Localized soft-tissue hypoxia coupled with increased circulating estrogen after birth may be the stimulus",
+          "management_clue": "Infantile hemangiomas are common, often harmless, and usually shrink on their own, often requiring only "watch and wait" monitoring. For rapidly growing, large, or ulcerated hemangiomas, treatments like oral propranolol (a beta-blocker) are highly effective. Other options include topical timolol, steroids, or pulsed dye lasers",
           "note": "",
           "source_filename": "null"
         },
         {
-          "answer": "",
+          "answer": "Parotid lipoma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/014.jpg",
-          "etiology_clue": "",
-          "management_clue": "",
+          "etiology_clue": "it is considered a rare, benign, slow-growing tumor (0.6%–4.4% of parotid tumors) often linked to genetic factors, particularly chromosome 12 rearrangements. Common predisposing factors include middle age (40–60 years), obesity, and trauma, which may cause fat cell proliferation",
+          "management_clue": "conservative surgical excision (superficial parotidectomy or simple enucleation) with preservation of the facial nerve",
           "note": "",
           "source_filename": "null"
         }
