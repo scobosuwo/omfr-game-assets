@@ -47,7 +47,7 @@
         {
           "answer": "Metastatic Disease of Parotid Nodes",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/006.jpg",
-          "etiology_clue": "Lymphangitic or hematogenous spread of tumor Skin of face, external ear, & scalp accounts for 75% of primary tumors Systemic metastases to parotid nodes rare Parotid has intraglandular lymph nodes (unlike submandibular & sublingual glands) Normal parotid: ~ 20 intraglandular nodes Embryology/anatomy Parotid undergoes late encapsulation, incorporating nodes within its parenchyma Parotid "forgotten nodal station"",
+          "etiology_clue": "Lymphangitic or hematogenous spread of tumor Skin of face, external ear, & scalp accounts for 75% of primary tumors Systemic metastases to parotid nodes rare Parotid has intraglandular lymph nodes (unlike submandibular & sublingual glands) Normal parotid: ~ 20 intraglandular nodes Embryology/anatomy Parotid undergoes late encapsulation, incorporating nodes within its parenchyma Parotid 'forgotten nodal station'",
           "management_clue": "Parotidectomy, neck dissection + radiation therapy SCCa: Parotidectomy & neck dissection dictated by imaging & physical exam Postoperative radiotherapy Melanoma: Parotidectomy & neck dissection dictated by lymphatic mapping & sentinel node identification Adjuvant radiotherapy ± chemotherapy depends on context",
           "note": "",
           "source_filename": "null"
@@ -104,7 +104,7 @@
           "answer": "Infantile hemangioma",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/013.jpg",
           "etiology_clue": "The cause of hemangioma is currently unknown, but several studies have suggested the importance of estrogen signaling in proliferation. Localized soft-tissue hypoxia coupled with increased circulating estrogen after birth may be the stimulus",
-          "management_clue": "Infantile hemangiomas are common, often harmless, and usually shrink on their own, often requiring only "watch and wait" monitoring. For rapidly growing, large, or ulcerated hemangiomas, treatments like oral propranolol (a beta-blocker) are highly effective. Other options include topical timolol, steroids, or pulsed dye lasers",
+          "management_clue": "Infantile hemangiomas are common, often harmless, and usually shrink on their own, often requiring only 'watch and wait' monitoring. For rapidly growing, large, or ulcerated hemangiomas, treatments like oral propranolol (a beta-blocker) are highly effective. Other options include topical timolol, steroids, or pulsed dye lasers",
           "note": "",
           "source_filename": "null"
         },
