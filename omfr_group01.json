@@ -39,7 +39,7 @@
         {
           "answer": "Malignant mixed tumor",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/005.jpg",
-          "etiology_clue": "Likely represents malignancy from pluripotent cell that differentiates in multiple directions while maintainingmalignant potential May represent collision tumor of multiple carcinomas expleomorphic adenoma Carcinoma component of "true MMT" usually salivary gland carcinoma Sarcoma component usually chondrosarcoma Glandular & spindle cell components common",
+          "etiology_clue": "Likely represents malignancy from pluripotent cell that differentiates in multiple directions while maintainingmalignant potential May represent collision tumor of multiple carcinomas expleomorphic adenoma Carcinoma component of 'true MMT' usually salivary gland carcinoma Sarcoma component usually chondrosarcoma Glandular & spindle cell components common",
           "management_clue": "Trimodality therapy surgery, chemotherapy, radiation",
           "note": "",
           "source_filename": "null"
