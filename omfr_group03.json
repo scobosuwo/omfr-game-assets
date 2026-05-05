@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "id": "pathology",
+      "label": "Oral Pathology - Mixed Cases 001",
+      "terms": [
+        {
+          "answer": "Gardner’s syndrome",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/001.jpg",
+          "etiology_clue": "Autosomal dominant APC gene mutation causing multiple osteomas, supernumerary teeth, and colorectal polyposis with malignant potential.",
+          "management_clue": "Colorectal surveillance and polypectomy are essential; jaw osteomas treated by surgical excision if symptomatic.",
+          "note": ""
+        },
+        {
+          "answer": "Simple bone cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/002.jpg",
+          "etiology_clue": "Pseudocyst of unknown etiology containing empty or fluid-filled cavity with no epithelial lining, typically in young patients.",
+          "management_clue": "Surgical exploration and curettage to stimulate bleeding and bony healing; excellent prognosis with low recurrence.",
+          "note": ""
+        },
+        {
+          "answer": "Central giant cell granuloma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/003.jpg",
+          "etiology_clue": "Benign intraosseous lesion of unknown etiology characterised by multinucleated giant cells within a fibrovascular stroma.",
+          "management_clue": "Curettage for non-aggressive lesions; intralesional corticosteroids or calcitonin as alternatives; resection reserved for aggressive recurrent cases.",
+          "note": ""
+        },
+        {
+          "answer": "Adenocarcinoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/004.jpg",
+          "etiology_clue": "Malignant neoplasm of glandular epithelial origin arising from minor salivary glands or metastatic deposits within the jaws.",
+          "management_clue": "Surgical resection with clear margins combined with radiotherapy and chemotherapy depending on stage and site of origin.",
+          "note": ""
+        },
+        {
+          "answer": "Dentigerous cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/005.jpg",
+          "etiology_clue": "Developmental odontogenic cyst formed by fluid accumulation between reduced enamel epithelium and the crown of an unerupted tooth.",
+          "management_clue": "Enucleation with extraction of associated impacted tooth; marsupialisation considered for large cysts in growing patients.",
+          "note": ""
+        },
+        {
+          "answer": "Medication-related Osteonecrosis of the Jaws",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/006.jpg",
+          "etiology_clue": "Exposed necrotic bone persisting over eight weeks in patients receiving antiresorptive or antiangiogenic agents without prior radiation.",
+          "management_clue": "Drug holiday where possible, conservative debridement, antimicrobial rinses; surgical resection reserved for advanced refractory stage III disease.",
+          "note": ""
+        },
+        {
+          "answer": "Metastatic tumor",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/007.jpg",
+          "etiology_clue": "Haematogenous spread of distant primary malignancy to jaw bones, most commonly from breast, lung, kidney, or prostate.",
+          "management_clue": "Palliative intent guides management; systemic oncologic therapy, radiotherapy for pain control, and surgical stabilisation if pathologic fracture present.",
+          "note": ""
+        },
+        {
+          "answer": "Thalassemia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/008.jpg",
+          "etiology_clue": "Hereditary haemoglobinopathy causing marrow hyperplasia, resulting in hair-on-end trabecular pattern and expansion of diploe on skull radiographs.",
+          "management_clue": "Medical management with transfusions and chelation therapy; oral manifestations managed supportively with specialist haematology co-management.",
+          "note": ""
+        },
+        {
+          "answer": "Buccal bifurcation cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/009.jpg",
+          "etiology_clue": "Inflammatory paradental cyst arising at the buccal furcation of a vital mandibular first molar in children, causing buccal bone expansion.",
+          "management_clue": "Enucleation with preservation of the associated vital tooth; prognosis is excellent with low recurrence rate.",
+          "note": ""
+        },
+        {
+          "answer": "Squamous Cell Carcinoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/010.jpg",
+          "etiology_clue": "Most common oral malignancy arising from surface epithelium, strongly associated with tobacco, alcohol, and high-risk HPV infection.",
+          "management_clue": "Surgical excision with clear margins, neck dissection for nodal disease, adjuvant radiotherapy or chemoradiation based on staging.",
+          "note": ""
+        },
+        {
+          "answer": "Periapical Cemento-Osseous Dysplasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/011.jpg",
+          "etiology_clue": "Benign fibro-osseous lesion of periodontal ligament origin occurring at apices of vital mandibular anterior teeth, predominantly in middle-aged Black women.",
+          "management_clue": "No treatment required; periodic radiographic monitoring sufficient as lesion is self-limiting and not associated with systemic disease.",
+          "note": ""
+        },
+        {
+          "answer": "Complex odontoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/012.jpg",
+          "etiology_clue": "Hamartomatous odontogenic malformation producing a disorganised calcified mass of enamel, dentine, and cementum without tooth-like morphology.",
+          "management_clue": "Conservative surgical excision; excellent prognosis with negligible recurrence risk and no malignant potential reported.",
+          "note": ""
+        },
+        {
+          "answer": "Fibrous Dysplasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/013.jpg",
+          "etiology_clue": "Sporadic GNAS somatic mutation causing replacement of normal bone with fibrous connective tissue producing a ground-glass radiographic appearance.",
+          "management_clue": "Conservative monitoring when stable; surgical recontouring for functional or aesthetic impairment; bisphosphonates for pain management in polyostotic disease.",
+          "note": ""
+        },
+        {
+          "answer": "Melanoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/014.jpg",
+          "etiology_clue": "Malignant neoplasm of melanocytes arising from oral mucosa, most commonly on the palate, presenting as pigmented irregular lesion with poor prognosis.",
+          "management_clue": "Wide surgical excision with adequate margins; adjuvant immunotherapy or targeted therapy; prognosis significantly worse than cutaneous melanoma.",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
