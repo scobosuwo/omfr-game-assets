@@ -5,7 +5,7 @@
       "label": "Oral Pathology - Mixed Cases 001",
       "terms": [
         {
-          "answer": "Gardner’s syndrome",
+          "answer": "Gardners syndrome",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group003/001.jpg",
           "etiology_clue": "Autosomal dominant APC gene mutation causing multiple osteomas, supernumerary teeth, and colorectal polyposis with malignant potential.",
           "management_clue": "Colorectal surveillance and polypectomy are essential; jaw osteomas treated by surgical excision if symptomatic.",
