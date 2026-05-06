@@ -115,6 +115,22 @@
           "management_clue": "conservative surgical excision (superficial parotidectomy or simple enucleation) with preservation of the facial nerve",
           "note": "",
           "source_filename": "null"
+        },
+        {
+          "answer": "Benign Lymphoepithelial Lesions",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/015.jpg",
+          "etiology_clue": "Periductal lymphoid aggregates cause ductal radicular obstruction, periductal atrophy, & distal cyst formation or cyst formation occurs in included glandular epithelium within intraparotid nodes",
+          "management_clue": "Combination antiretroviral therapy for HIV will completely or partially treat it. Intralesional doxycycline or alcohol sclerotherapy if painful or if not antiviral candidate",
+          "note": "",
+          "source_filename": "null"
+        },
+        {
+          "answer": "Parotid Sialadenitis",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group001/016.jpg",
+          "etiology_clue": "Inflammation or infection of parotid gland. Bacterial - localized. Viral - epidemic parotitis. Obstruction-induced - Secondary, Unknown - Juvenile recurrent",
+          "management_clue": "Sialogogues (sugarless gum or sour candy); liquid intake; Antibiotic therapy; Ductal dilation or surgical sialolithectomy; Surgical removal of entire gland",
+          "note": "",
+          "source_filename": "null"
         }
       ]
     }
