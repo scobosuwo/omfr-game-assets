@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "id": "pathology",
+      "label": "Mixed cases 002",
+      "terms": [
+        {
+          "answer": "Regional Odontodysplasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_001.jpg",
+          "etiology_clue": "A localized developmental anomaly affecting enamel, dentin, and pulp in a regional distribution along a nerve pathway.",
+          "management_clue": "Affected teeth are typically extracted due to poor structural integrity, followed by prosthetic rehabilitation.",
+          "note": ""
+        },
+        {
+          "answer": "Segmental Odontomaxillary Dysplasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_002.jpg",
+          "etiology_clue": "A rare unilateral condition involving abnormal development of teeth, bone, and soft tissue within a maxillary segment.",
+          "management_clue": "Management is conservative and supportive, focusing on prosthetic replacement of missing or malformed teeth.",
+          "note": ""
+        },
+        {
+          "answer": "Turner Dysplasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_003.jpg",
+          "etiology_clue": "Enamel hypoplasia of a permanent tooth caused by periapical infection or trauma to its overlying primary predecessor.",
+          "management_clue": "Cosmetic restoration with composite resin or a crown addresses the localized enamel defect on the affected tooth.",
+          "note": ""
+        },
+        {
+          "answer": "Lingual Thyroid",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_004.jpg",
+          "etiology_clue": "Failure of thyroid gland descent during embryogenesis results in ectopic thyroid tissue at the foramen cecum.",
+          "management_clue": "Ablation with radioactive iodine or surgical excision is indicated when the ectopic tissue causes airway obstruction or dysphagia.",
+          "note": ""
+        },
+        {
+          "answer": "Dermoid cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_005.jpg",
+          "etiology_clue": "Entrapment of ectodermal elements along embryonic fusion lines produces a cyst lined by keratinizing epithelium with skin appendages.",
+          "management_clue": "Complete surgical enucleation is curative, with the approach determined by whether the lesion is above or below the mylohyoid.",
+          "note": ""
+        },
+        {
+          "answer": "Submandibular Gland Aplasia",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_006.jpg",
+          "etiology_clue": "Congenital absence of the submandibular gland, often associated with other salivary gland or craniofacial developmental anomalies.",
+          "management_clue": "No treatment is required unless xerostomia is symptomatic, in which case salivary substitutes are prescribed.",
+          "note": ""
+        },
+        {
+          "answer": "Foregut Duplication Cyst",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_007.jpg",
+          "etiology_clue": "Anomalous budding of the primitive foregut during embryogenesis gives rise to a cyst lined by gastrointestinal or respiratory epithelium.",
+          "management_clue": "Surgical excision is the treatment of choice to prevent infection, hemorrhage, or compressive complications.",
+          "note": ""
+        },
+        {
+          "answer": "Ranula",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_008.jpg",
+          "etiology_clue": "Extravasation or retention of mucus from the sublingual gland produces a fluctuant, bluish, dome-shaped swelling in the floor of mouth.",
+          "management_clue": "Marsupialization or excision of the sublingual gland is preferred to reduce recurrence compared to simple drainage alone.",
+          "note": ""
+        },
+        {
+          "answer": "Submandibular Gland Sialadenitis",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_009.jpg",
+          "etiology_clue": "Obstructive sialolithiasis or ascending bacterial infection causes painful, recurrent swelling of the submandibular gland at mealtime.",
+          "management_clue": "Stone removal via sialendoscopy or open surgery combined with antibiotics resolves the obstructive inflammatory episode.",
+          "note": ""
+        },
+        {
+          "answer": "Submandibular Sialocele",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_010.jpg",
+          "etiology_clue": "Traumatic disruption of the submandibular gland capsule or duct allows saliva to accumulate within adjacent connective tissue.",
+          "management_clue": "Repeated aspiration, pressure dressings, or botulinum toxin injection reduces salivary flow until the defect resolves spontaneously.",
+          "note": ""
+        },
+        {
+          "answer": "Submandibular Mucocele",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_011.jpg",
+          "etiology_clue": "Mucous extravasation from minor salivary gland duct disruption in the submandibular region forms a superficial soft tissue swelling.",
+          "management_clue": "Excision of the mucocele together with the causative minor gland is required to prevent recurrence.",
+          "note": ""
+        },
+        {
+          "answer": "Sublingual Gland Benign Mixed Tumor",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_012.jpg",
+          "etiology_clue": "A pleomorphic adenoma arising in the sublingual gland presents as a slow-growing, painless, firm mass in the floor of mouth.",
+          "management_clue": "Wide local excision with an intact capsule is essential to minimize the risk of recurrence or malignant transformation.",
+          "note": ""
+        },
+        {
+          "answer": "Sublingual Gland Carcinoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_013.jpg",
+          "etiology_clue": "The sublingual gland has the highest malignancy rate among major salivary glands, most commonly presenting as adenoid cystic carcinoma.",
+          "management_clue": "Radical surgical resection with adjuvant radiotherapy is standard due to perineural invasion propensity and high recurrence rates.",
+          "note": ""
+        },
+        {
+          "answer": "Nodal Non-Hodgkin Lymphoma",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/group004/pathology_014.jpg",
+          "etiology_clue": "Clonal proliferation of B or T lymphocytes within cervical lymph nodes produces firm, non-tender, rapidly enlarging nodal masses.",
+          "management_clue": "Combination chemotherapy regimens such as R-CHOP, with or without radiotherapy, are the cornerstone of systemic treatment.",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
