@@ -27,91 +27,91 @@
         },
         {
           "answer": "alveolar process pneumatization",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_004.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_004.png",
           "etiology_clue": "Post-extraction expansion of the maxillary sinus into the edentulous alveolar ridge, driven by reduced bone loading.",
           "management_clue": "Sinus floor augmentation via lateral window or osteotome technique is required prior to implant placement.",
           "note": ""
         },
         {
           "answer": "carotid artery calcifications",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_005.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_005.png",
           "etiology_clue": "Atherosclerotic mineralization of the intima-media of the common carotid bifurcation, visible inferior to the mandibular angle on panoramic imaging.",
           "management_clue": "Patients require referral to a physician for Doppler ultrasound evaluation and cardiovascular risk stratification.",
           "note": ""
         },
         {
           "answer": "canine transposition",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_006.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_006.png",
           "etiology_clue": "Positional interchange of the maxillary canine with an adjacent tooth, most commonly the first premolar, during odontogenesis.",
           "management_clue": "Management options include orthodontic correction or acceptance of the transposition with restorative camouflage.",
           "note": ""
         },
         {
           "answer": "supernumerary root",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_007.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_007.png",
           "etiology_clue": "An accessory root forms due to aberrant Hertwig's epithelial root sheath proliferation, most frequently seen in mandibular premolars and molars.",
           "management_clue": "Identification prior to extraction or endodontic therapy is critical to prevent missed canals or root fracture.",
           "note": ""
         },
         {
           "answer": "internal root resorption",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_008.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_008.png",
           "etiology_clue": "Pulp-derived clastic cells resorb dentinal walls centrifugally from within the canal, often following pulpal inflammation or trauma.",
           "management_clue": "Non-surgical root canal therapy arrests the resorptive process by eliminating the vital pulp tissue driving clastic activity.",
           "note": ""
         },
         {
           "answer": "osteoma cutis",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_009.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_009.png",
           "etiology_clue": "Metaplastic ossification within the dermis or subcutaneous tissue overlying the face, appearing as a radiopaque focus superficial to bony structures.",
           "management_clue": "Surgical excision is performed for cosmetic reasons or diagnostic confirmation; recurrence is uncommon.",
           "note": ""
         },
         {
           "answer": "radiolucent restoration",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_010.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_010.png",
           "etiology_clue": "Certain resin composites, glass ionomers, or temporary materials lack sufficient radiopacifiers, rendering them indistinguishable from caries radiographically.",
           "management_clue": "Clinical correlation and transillumination are essential; future restorations should use ISO-compliant radiopaque materials.",
           "note": ""
         },
         {
           "answer": "cervical burnout",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_011.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_011.png",
           "etiology_clue": "A geometric artifact caused by reduced X-ray beam attenuation at the cemento-enamel junction, creating a false radiolucent band mimicking caries.",
           "management_clue": "No treatment is required; clinical probing and bitewing geometry adjustment confirm the pseudolesion diagnosis.",
           "note": ""
         },
         {
           "answer": "retained root",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_012.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_012.png",
           "etiology_clue": "A root fragment remains in the alveolus following incomplete extraction, often due to ankylosis, hypercementosis, or iatrogenic root fracture.",
           "management_clue": "Surgical retrieval is indicated if the fragment is infected, symptomatic, or obstructs planned implant placement.",
           "note": ""
         },
         {
           "answer": "bayonet dilaceration",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_013.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_013.png",
           "etiology_clue": "Severe abrupt angulation of the root relative to the crown results from traumatic displacement of the tooth germ during root formation.",
           "management_clue": "Extraction is often necessary due to the mechanical difficulty of endodontic access and elevated fracture risk.",
           "note": ""
         },
         {
           "answer": "rarefying osteitis",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_014.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_014.png",
           "etiology_clue": "Periapical or interradicular bone destruction results from bacterial toxins from a necrotic pulp eliciting a chronic inflammatory resorptive response.",
           "management_clue": "Root canal therapy or extraction eliminates the infectious source, allowing osseous repair over subsequent months.",
           "note": ""
         },
         {
           "answer": "endo-perio lesion",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_015.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_015.png",
           "etiology_clue": "Infection communicates between the pulp and periodontium via apical foramina, lateral canals, or dentinal tubules, producing a combined bony defect.",
           "management_clue": "Treatment requires sequenced endodontic therapy followed by periodontal debridement, with re-evaluation before regenerative procedures.",
           "note": ""
         },
         {
           "answer": "external root resorption",
-          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_016.jpg",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_016.png",
           "etiology_clue": "Clastic cells originating from the periodontal ligament or surrounding bone resorb the root surface, triggered by trauma, orthodontic forces, or pressure from adjacent pathology.",
           "management_clue": "Management targets the causative factor; endodontic therapy is indicated only when resorption communicates with the canal.",
           "note": ""
