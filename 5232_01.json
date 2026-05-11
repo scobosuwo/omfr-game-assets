@@ -19,7 +19,7 @@
           "note": ""
         },
         {
-          "answer": "Dentition - other: Defective restoration 14O (internal void)",
+          "answer": "Dentition - iatrogenic: Defective restoration 14O (internal void)",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_01/reportwriting_003.png",
           "etiology_clue": "",
           "management_clue": "",
@@ -54,7 +54,7 @@
           "note": ""
         },
         {
-          "answer": "Dentition - other: Dental implant (site 36)",
+          "answer": "Dentition - iatrogenic: Dental implant (site 36)",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_01/reportwriting_008.png",
           "etiology_clue": "",
           "management_clue": "",
