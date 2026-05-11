@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "id": "reportwriting",
+      "label": "2D Report writing",
+      "terms": [
+        {
+          "answer": "Dentition - caries: 27D (D3), 36D (E2)",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_001.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Dentition - other: Generalized calculus",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_002.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Dentition - other: Defective restoration 14O (internal void)",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_003.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Dentition - other: Reduced root-to-crown ratio (11, 21)",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_004.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Gnathic structures - hard tissues: Relative radiolucency region 11 maxilla",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_005.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Dentition - missing teeth: 12, 22",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_006.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Periodontal bone loss - furcation involvement: 46",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_007.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Dentition - other: Dental implant (site 36)",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_008.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Periodontal bone loss - vertical bone loss: Stage III/IV (> 33% of root length) 45D",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_009.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "Dentition - other: Pulp stones (17, 47)",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/omfr_genetics.json/reportwriting_010.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
