@@ -8,7 +8,7 @@
           "answer": "mandibular tori",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_001.jpg",
           "etiology_clue": "Genetic predisposition combined with occlusal stress and parafunctional habits drives cortical bone exostosis on the lingual mandible.",
-          "management_clue": "Surgical removal is indicated only when tori interfere with prosthetic construction or cause recurrent soft tissue trauma.",
+          "management_clue": "Surgical removal is indicated only when these interfere with prosthetic construction or cause recurrent soft tissue trauma.",
           "note": ""
         },
         {
@@ -21,7 +21,7 @@
         {
           "answer": "stylohyoid ligament calcification",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_003.jpg",
-          "etiology_clue": "Metaplastic ossification of the fibrocartilaginous stylohyoid ligament, sometimes associated with Eagle syndrome symptomatology.",
+          "etiology_clue": "Metaplastic ossification of a ligament, sometimes associated with Eagle syndrome symptomatology.",
           "management_clue": "Symptomatic cases are managed by surgical shortening of the styloid process or calcified ligament segment.",
           "note": ""
         },
@@ -29,13 +29,13 @@
           "answer": "alveolar process pneumatization",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_004.png",
           "etiology_clue": "Post-extraction expansion of the maxillary sinus into the edentulous alveolar ridge, driven by reduced bone loading.",
-          "management_clue": "Sinus floor augmentation via lateral window or osteotome technique is required prior to implant placement.",
+          "management_clue": "Sinus floor augmentation via lateral window or osteotome technique might be required prior to implant placement.",
           "note": ""
         },
         {
           "answer": "carotid artery calcifications",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_005.png",
-          "etiology_clue": "Atherosclerotic mineralization of the intima-media of the common carotid bifurcation, visible inferior to the mandibular angle on panoramic imaging.",
+          "etiology_clue": "Atherosclerotic mineralization of the intima-media of the common carotid bifurcation, visible inferior and posterior to the mandibular angle on panoramic imaging.",
           "management_clue": "Patients require referral to a physician for Doppler ultrasound evaluation and cardiovascular risk stratification.",
           "note": ""
         },
@@ -49,14 +49,14 @@
         {
           "answer": "supernumerary root",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_007.png",
-          "etiology_clue": "An accessory root forms due to aberrant Hertwig's epithelial root sheath proliferation, most frequently seen in mandibular premolars and molars.",
+          "etiology_clue": "It forms due to aberrant Hertwig's epithelial root sheath proliferation, most frequently seen in mandibular premolars and molars.",
           "management_clue": "Identification prior to extraction or endodontic therapy is critical to prevent missed canals or root fracture.",
           "note": ""
         },
         {
           "answer": "internal root resorption",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_008.png",
-          "etiology_clue": "Pulp-derived clastic cells resorb dentinal walls centrifugally from within the canal, often following pulpal inflammation or trauma.",
+          "etiology_clue": "Pulp-derived clastic cells resorb dentinal walls centrifugally from within the pulp or root canal, often following pulpal inflammation or trauma.",
           "management_clue": "Non-surgical root canal therapy arrests the resorptive process by eliminating the vital pulp tissue driving clastic activity.",
           "note": ""
         },
@@ -64,13 +64,13 @@
           "answer": "osteoma cutis",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_009.png",
           "etiology_clue": "Metaplastic ossification within the dermis or subcutaneous tissue overlying the face, appearing as a radiopaque focus superficial to bony structures.",
-          "management_clue": "Surgical excision is performed for cosmetic reasons or diagnostic confirmation; recurrence is uncommon.",
+          "management_clue": "Surgical excision might be performed for cosmetic reasons or diagnostic confirmation; recurrence is uncommon.",
           "note": ""
         },
         {
           "answer": "radiolucent restoration",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_010.png",
-          "etiology_clue": "Certain resin composites, glass ionomers, or temporary materials lack sufficient radiopacifiers, rendering them indistinguishable from caries radiographically.",
+          "etiology_clue": "Certain resin composites, glass ionomers, or temporary materials lack sufficient radiopacifiers, making them caries mimickers radiographically.",
           "management_clue": "Clinical correlation and transillumination are essential; future restorations should use ISO-compliant radiopaque materials.",
           "note": ""
         },
@@ -78,7 +78,7 @@
           "answer": "cervical burnout",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_011.png",
           "etiology_clue": "A geometric artifact caused by reduced X-ray beam attenuation at the cemento-enamel junction, creating a false radiolucent band mimicking caries.",
-          "management_clue": "No treatment is required; clinical probing and bitewing geometry adjustment confirm the pseudolesion diagnosis.",
+          "management_clue": "No treatment is required; clinical probing and adjusting bitewing geometry to confirm the caries-mimicker radiographic impression.",
           "note": ""
         },
         {
@@ -91,15 +91,15 @@
         {
           "answer": "bayonet dilaceration",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_013.png",
-          "etiology_clue": "Severe abrupt angulation of the root relative to the crown results from traumatic displacement of the tooth germ during root formation.",
-          "management_clue": "Extraction is often necessary due to the mechanical difficulty of endodontic access and elevated fracture risk.",
+          "etiology_clue": "Severe abrupt angulation of the root relative to the crown results from marked displacement of the tooth germ during root formation.",
+          "management_clue": "No treatment needed but extraction (with elevated fracture risk) is often necessary due to the mechanical difficulty of endodontic access in extensively decayed teeth.",
           "note": ""
         },
         {
           "answer": "rarefying osteitis",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_02/anatomy_014.png",
-          "etiology_clue": "Periapical or interradicular bone destruction results from bacterial toxins from a necrotic pulp eliciting a chronic inflammatory resorptive response.",
-          "management_clue": "Root canal therapy or extraction eliminates the infectious source, allowing osseous repair over subsequent months.",
+          "etiology_clue": "Radiographic sign of bone destruction likely due to bacterial toxins from a necrotic pulp eliciting a chronic inflammatory resorptive response of periapical tissues.",
+          "management_clue": "Root canal therapy, apicoectomy, or extraction eliminates the infectious source (if active infection/inflammation is present), allowing potential osseous repair over subsequent months.",
           "note": ""
         },
         {
