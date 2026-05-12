@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "pathology",
-      "label": "Pathology",
+      "id": "dental",
+      "label": "dental",
       "terms": [
         {
           "answer": "25",
