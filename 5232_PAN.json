@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "id": "panoramic",
+      "label": "Normal Anatomy Panoramic",
+      "terms": [
+        {
+          "answer": "coronoid notch",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "lingula",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "coronoid process",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "coronoid process",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
