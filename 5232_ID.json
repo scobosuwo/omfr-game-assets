@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": "pathology",
+      "label": "Pathology",
+      "terms": [
+        {
+          "answer": "25",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "41",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "46",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
