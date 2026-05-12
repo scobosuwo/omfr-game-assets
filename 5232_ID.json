@@ -12,8 +12,22 @@
           "note": ""
         },
         {
+          "answer": "15",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_ID/15_001.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
           "answer": "41",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_ID/41_001.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+          {
+          "answer": "31",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_ID/31_001.png",
           "etiology_clue": "",
           "management_clue": "",
           "note": ""
@@ -21,6 +35,13 @@
         {
           "answer": "46",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_ID/46_001.png",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": ""
+        },
+        {
+          "answer": "36",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_ID/36_001.png",
           "etiology_clue": "",
           "management_clue": "",
           "note": ""
