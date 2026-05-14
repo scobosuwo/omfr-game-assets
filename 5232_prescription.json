@@ -54,7 +54,7 @@
         },
         {
           "id": "item007",
-          "answer": "panoramic or lateral ceph",
+          "answer": "panoramic or cephalometric",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_prescription/007.png",
           "etiology_clue": "growth abnormalities",
           "management_clue": "evaluate bone shape and proportions compare contralateral anatomy - correlate with patient's age",
@@ -62,7 +62,7 @@
         },
         {
           "id": "item008",
-          "answer": "panoramic or lateral ceph",
+          "answer": "panoramic or cephalometric",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_prescription/008.png",
           "etiology_clue": "positive neurologic findings in the head and neck",
           "management_clue": "evaluate for gnathic structures 'hard and soft tissues' in regions associated with cranial nerve distribution",
@@ -70,7 +70,7 @@
         },
         {
           "id": "item009",
-          "answer": "panoramic or lateral ceph",
+          "answer": "panoramic or cephalometric",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_prescription/009.png",
           "etiology_clue": "evidence of foreign objects",
           "management_clue": "gross evaluation of the position and relative anatomical relationships of a foreign object.",
@@ -98,6 +98,14 @@
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_prescription/012.png",
           "etiology_clue": "unusual tooth morphology, calcification or colour",
           "management_clue": "evaluate integrity and morphology of dental tissue and internal dental anatomy pulp chamber and canals",
+          "note": ""
+        },
+        {
+          "id": "item013",
+          "answer": "bitewing or periapical",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/5232_prescription/013.png",
+          "etiology_clue": "screening for interproximal caries",
+          "management_clue": "evaluate integrity of enamel/dentine below contact point - clinically not visible surface",
           "note": ""
         }
       ]
