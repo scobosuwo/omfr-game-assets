@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": "prescription",
+      "label": "prescription",
+      "terms": [
+        {
+          "id": "item001",
+          "answer": "vertical bitewing",
+          "image_url": "",
+          "etiology_clue": "clinical evidence of periodontal disease",
+          "management_clue": "evaluate extend of periodontal bone loss in a patient with clinical signs of periodontitis",
+          "note": ""
+        },
+        {
+          "id": "item002",
+          "answer": "bitewing or periapical",
+          "image_url": "",
+          "etiology_clue": "large or deep restorations",
+          "management_clue": "evaluate integrity of peri-radicular tissues and potential restoration defects or recurrent/residual caries",
+          "note": ""
+        },
+        {
+          "id": "item003",
+          "answer": "panoramic",
+          "image_url": "",
+          "etiology_clue": "malposed or clinically impacted teeth",
+          "management_clue": "evaluate unerupted teeth potential impactions or ectopic positions of roots/follicles",
+          "note": ""
+        },
+        {
+          "id": "item004",
+          "answer": "panoramic and occlusal",
+          "image_url": "",
+          "etiology_clue": "evidence of dental/facial trauma",
+          "management_clue": "evaluate presence of bone displacements or fracture lines in the dento-alveolar region",
+          "note": ""
+        },
+        {
+          "id": "item005",
+          "answer": "periapical",
+          "image_url": "",
+          "etiology_clue": "mobility of teeth",
+          "management_clue": "evaluate roots and alveolar sockets for integrity of dental tissue, PDL spaces, and lamina dura",
+          "note": ""
+        },
+        {
+          "id": "item006",
+          "answer": "periapical or sinogram",
+          "image_url": "",
+          "etiology_clue": "sinus tract 'fistula'",
+          "management_clue": "evaluate integrity of periapical tissues in region with clinical signs of parulis/gum boil",
+          "note": ""
+        },
+        {
+          "id": "item007",
+          "answer": "panoramic or lateral ceph",
+          "image_url": "",
+          "etiology_clue": "growth abnormalities",
+          "management_clue": "evaluate bone shape and proportions compare contralateral anatomy - correlate with patient's age",
+          "note": ""
+        },
+        {
+          "id": "item008",
+          "answer": "panoramic or lateral ceph",
+          "image_url": "",
+          "etiology_clue": "positive neurologic findings in the head and neck",
+          "management_clue": "evaluate for gnathic structures 'hard and soft tissues' in regions associated with cranial nerve distribution",
+          "note": ""
+        },
+        {
+          "id": "item009",
+          "answer": "panoramic or lateral ceph",
+          "image_url": "",
+          "etiology_clue": "evidence of foreign objects",
+          "management_clue": "gross evaluation of the position and relative anatomical relationships of a foreign object.",
+          "note": ""
+        },
+        {
+          "id": "item010",
+          "answer": "periapical",
+          "image_url": "",
+          "etiology_clue": "abutment teeth for fixed or removable partial prosthesis",
+          "management_clue": "evaluate restorability concerns and root-to-crown ratios before fixed prosthodontic treatment",
+          "note": ""
+        },
+        {
+          "id": "item011",
+          "answer": "panoramic",
+          "image_url": "",
+          "etiology_clue": "unusual eruption, spacing or migration of teeth",
+          "management_clue": "evaluate gross anatomical position and orientation of multiple teeth (erupted and non-erupted)",
+          "note": ""
+        },
+        {
+          "id": "item012",
+          "answer": "periapical",
+          "image_url": "",
+          "etiology_clue": "unusual tooth morphology, calcification or colour",
+          "management_clue": "evaluate integrity and morphology of dental tissue and internal dental anatomy pulp chamber and canals",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
