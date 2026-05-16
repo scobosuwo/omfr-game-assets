@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "id": "cysts",
+      "label": "Cysts",
+      "terms": [
+        {
+          "answer": "epithelial rests of Malassez, inflammatory/infectious, liquefactive necrosis, osmotic pressure, cholesterol crystals",
+          "image_url": "",
+          "etiology_clue": "Radicular (Periapical) Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "reduced enamel epithelium, osmotic pressure, inflammatory, CEJ",
+          "image_url": "",
+          "etiology_clue": "Dentigerous (Follicular) Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "reduced enamel epithelium / dental lamina rests, daughter cysts, PTCH1, parakeratinized, active epithelial proliferation",
+          "image_url": "",
+          "etiology_clue": "Odontogenic Keratocyst (OKC)",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "rests of dental lamina, non-inflammatory, glycogen-rich clear cells, vital tooth, botryoid",
+          "image_url": "",
+          "etiology_clue": "Lateral Periodontal Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "rests of dental lamina, non-inflammatory, soft tissue, glycogen-rich clear cells, no bone involvement",
+          "image_url": "",
+          "etiology_clue": "Gingival Cyst of the Adult",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "odontogenic epithelium, ghost cells, calcification, dentinoid, ameloblastoma-like",
+          "image_url": "",
+          "etiology_clue": "Calcifying Odontogenic Cyst (Gorlin Cyst)",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "nasopalatine duct epithelium, vestigial remnant, non-odontogenic, incisive canal, vital teeth",
+          "image_url": "",
+          "etiology_clue": "Nasopalatine Duct Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "nasolacrimal duct remnant, fissural, soft tissue, no bone destruction, MRI-dependent diagnosis",
+          "image_url": "",
+          "etiology_clue": "Nasolabial Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "no epithelial lining, post-traumatic, empty cavity, scalloping, spontaneous resolution",
+          "image_url": "",
+          "etiology_clue": "Simple Bone Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "no epithelial lining, ectopic salivary gland, lingual cortical depression, below IAC, static",
+          "image_url": "",
+          "etiology_clue": "Stafne Bone Cavity",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        }
+      ]
+    }
+  ]
+}
