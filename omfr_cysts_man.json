@@ -5,7 +5,7 @@
       "label": "Cysts",
       "terms": [
         {
-          "answer": "non surgical endodontic therapy, radiographic follow-up",
+          "answer": "non surgical endodontic therapy, 6 months radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Radicular (Periapical) Cyst",
           "management_clue": "",
@@ -13,7 +13,7 @@
           "source_filename": ""
         },
         {
-          "answer": "surgical endodontic therapy, histopathology, radiographic follow-up",
+          "answer": "surgical endodontic therapy, histopathology, 6 months radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Radicular (Periapical) Cyst > 2 cm",
           "management_clue": "",
@@ -21,7 +21,7 @@
           "source_filename": ""
         },
         {
-          "answer": "surgical enucleation, extraction of impacted tooth, histopathology",
+          "answer": "surgical enucleation, extraction of impacted tooth, histopathology, 12 month 4 years radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Dentigerous (Follicular) Cyst impacted tooth compromissed",
           "management_clue": "",
@@ -37,7 +37,7 @@
           "source_filename": ""
         },
         {
-          "answer": "Carnoy solution, surgical enucleation with curettage, histopathology, long-term radiographic follow-up",
+          "answer": "Carnoy solution, surgical enucleation with curettage, histopathology, 3 year CBCT and long-term radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Odontogenic Keratocyst (OKC)",
           "management_clue": "",
@@ -45,7 +45,7 @@
           "source_filename": ""
         },
         {
-          "answer": "conservative surgical enucleation",
+          "answer": "conservative surgical enucleation, 12 month 3 year radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Lateral Periodontal Cyst",
           "management_clue": "",
@@ -61,7 +61,7 @@
           "source_filename": ""
         },
         {
-          "answer": "simple surgical enucleation",
+          "answer": "simple surgical enucleation, 12 month 5 year radiographic-follow up",
           "image_url": "",
           "etiology_clue": "Calcifying Odontogenic Cyst (Gorlin Cyst)",
           "management_clue": "",
@@ -69,7 +69,7 @@
           "source_filename": ""
         },
         {
-          "answer": "surgical enucleation, histopathology",
+          "answer": "surgical enucleation, histopathology, 12 month 1 year radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Nasopalatine Duct Cyst",
           "management_clue": "",
@@ -85,7 +85,7 @@
           "source_filename": ""
         },
         {
-          "answer": "simple surgical exploration, curettage biopsy, radiographic follow-up",
+          "answer": "simple surgical exploration, curettage biopsy, 6 month 1 year radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Simple Bone Cyst",
           "management_clue": "",
