@@ -21,15 +21,23 @@
           "source_filename": ""
         },
         {
-          "answer": "enucleation, extraction of impacted tooth, partial enucleation, marsupialization, histopathology",
+          "answer": "surgical enucleation, extraction of impacted tooth, histopathology",
           "image_url": "",
-          "etiology_clue": "Dentigerous (Follicular) Cyst",
+          "etiology_clue": "Dentigerous (Follicular) Cyst impacted tooth compromissed",
           "management_clue": "",
           "note": "",
           "source_filename": ""
         },
         {
-          "answer": "enucleation with curettage, long-term radiographic follow-up, Carnoy solution, histopathology",
+          "answer": "partial surgical enucleation, marsupialization, histopathology",
+          "image_url": "",
+          "etiology_clue": "Dentigerous (Follicular) Cyst impacted tooth not compromissed",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Carnoy solution, surgical enucleation with curettage, histopathology, long-term radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Odontogenic Keratocyst (OKC)",
           "management_clue": "",
@@ -37,7 +45,7 @@
           "source_filename": ""
         },
         {
-          "answer": "conservative enucleation",
+          "answer": "conservative surgical enucleation",
           "image_url": "",
           "etiology_clue": "Lateral Periodontal Cyst",
           "management_clue": "",
@@ -53,7 +61,7 @@
           "source_filename": ""
         },
         {
-          "answer": "simple enucleation",
+          "answer": "simple surgical enucleation",
           "image_url": "",
           "etiology_clue": "Calcifying Odontogenic Cyst (Gorlin Cyst)",
           "management_clue": "",
