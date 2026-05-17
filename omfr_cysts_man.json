@@ -85,9 +85,17 @@
           "source_filename": ""
         },
         {
-          "answer": "no treatment, anterior type biopsy",
+          "answer": "no treatment",
           "image_url": "",
           "etiology_clue": "Stafne Bone Cavity",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "exploratory biopsy",
+          "image_url": "",
+          "etiology_clue": "Stafne Bone Cavity - anterior type",
           "management_clue": "",
           "note": "",
           "source_filename": ""
