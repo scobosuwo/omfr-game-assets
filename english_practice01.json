@@ -1,0 +1,122 @@
+{
+  "categories": [
+    {
+      "id": "english",
+      "label": "English",
+      "terms": [
+        {
+          "answer": "blue",
+          "image_url": "",
+          "etiology_clue": "sad - b",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "down",
+          "image_url": "",
+          "etiology_clue": "sad - d",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "t",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        }
+      ]
+    }
+  ]
+}
