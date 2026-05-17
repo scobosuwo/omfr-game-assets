@@ -5,7 +5,7 @@
       "label": "Cysts",
       "terms": [
         {
-          "answer": "",
+          "answer": "non surgical endodontic therapy, radiographic follow-up",
           "image_url": "",
           "etiology_clue": "Radicular (Periapical) Cyst",
           "management_clue": "",
@@ -13,7 +13,15 @@
           "source_filename": ""
         },
         {
-          "answer": "enucleation, extraction of impacted tooth, partial enucleation, marsupialization, histopatology",
+          "answer": "surgical endodontic therapy, histopathology, radiographic follow-up",
+          "image_url": "",
+          "etiology_clue": "Radicular (Periapical) Cyst > 2 cm",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "enucleation, extraction of impacted tooth, partial enucleation, marsupialization, histopathology",
           "image_url": "",
           "etiology_clue": "Dentigerous (Follicular) Cyst",
           "management_clue": "",
@@ -21,7 +29,7 @@
           "source_filename": ""
         },
         {
-          "answer": "enuclation with curettage, long-term radiographic follow-up, Carnoy solution, histopatology",
+          "answer": "enucleation with curettage, long-term radiographic follow-up, Carnoy solution, histopathology",
           "image_url": "",
           "etiology_clue": "Odontogenic Keratocyst (OKC)",
           "management_clue": "",
