@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "id": "cysts",
+      "label": "Cysts",
+      "terms": [
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "Radicular (Periapical) Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "enucleation, extraction of impacted tooth, partial enucleation, marsupialization, histopatology",
+          "image_url": "",
+          "etiology_clue": "Dentigerous (Follicular) Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "enuclation with curettage, long-term radiographic follow-up, Carnoy solution, histopatology",
+          "image_url": "",
+          "etiology_clue": "Odontogenic Keratocyst (OKC)",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "conservative enucleation",
+          "image_url": "",
+          "etiology_clue": "Lateral Periodontal Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "simple surgical excision",
+          "image_url": "",
+          "etiology_clue": "Gingival Cyst of the Adult",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "Calcifying Odontogenic Cyst (Gorlin Cyst)",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "Nasopalatine Duct Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "Nasolabial Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "Simple Bone Cyst",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "",
+          "image_url": "",
+          "etiology_clue": "Stafne Bone Cavity",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        }
+      ]
+    }
+  ]
+}
