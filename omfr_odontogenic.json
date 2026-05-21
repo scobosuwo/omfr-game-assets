@@ -5,6 +5,14 @@
       "label": "Odontogenic",
       "terms": [
         {
+          "answer": "genetic mutation affects the cell cycle especially the G1-S checkpoint",
+          "image_url": "",
+          "etiology_clue": "What is behing odontogenic tumors?",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
           "answer": "epithelial origin, benign, enamel organ like",
           "image_url": "",
           "etiology_clue": "Ameloblastoma",
