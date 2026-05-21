@@ -1,0 +1,138 @@
+{
+  "categories": [
+    {
+      "id": "histology",
+      "label": "Histology",
+      "terms": [
+        {
+          "answer": "dental lamina",
+          "image_url": "",
+          "etiology_clue": "The primary source of odontogenic epithelial rests; linked to OKC, dentigerous cyst, and lateral periodontal cyst.",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "enamel organ",
+          "image_url": "",
+          "etiology_clue": "inner enamel epithelium, outer enamel epithelium, stellate reticulum, stratum intermedium",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "basal cells",
+          "image_url": "",
+          "etiology_clue": "Contribute to surface epithelium-derived odontogenic lesions; relevant to basaloid variants of ameloblastoma and OKC",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "reduced enamel epithelium",
+          "image_url": "",
+          "etiology_clue": "Post-crown formation remnant; associated with dentigerous cyst and, potentially, unicystic ameloblastoma",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "ectomesenchyme",
+          "image_url": "",
+          "etiology_clue": "Gives rise to odontoblasts and dental pulp; linked to odontogenic fibroma, odontogenic myxoma, and the mesenchymal component of ameloblastic fibroma/fibro-odontoma",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Hertwig's epithelial root sheath",
+          "image_url": "",
+          "etiology_clue": "Directs root morphogenesis; linked to calcifying epithelial odontogenic tumour (CEOT / Pindborg tumour) and AOT",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Rests of Malassez",
+          "image_url": "",
+          "etiology_clue": "Remnants of HERS in the periodontal ligament; source of radicular/periapical cysts and potentially some AOTs",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Rests of Serres",
+          "image_url": "",
+          "etiology_clue": "Persist in the gingiva after tooth formation; implicated in gingival cysts of adults and lateral periodontal cysts",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Dental follicle",
+          "image_url": "",
+          "etiology_clue": "Gives rise to cementum, PDL, and alveolar bone; source of dentigerous cyst wall, peripheral odontogenic fibroma, and cementoblastoma precursors",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Odontoblasts",
+          "image_url": "",
+          "etiology_clue": "Dentine-secreting cells of dental papilla origin; implicated in dentinogenic ghost cell tumour (DGCT) and the dentinoid component of complex/compound odontomas",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Epithelial–mesenchymal interface",
+          "image_url": "",
+          "etiology_clue": "Inductive interactions at this interface underlie: ameloblastic fibroma, ameloblastic fibro-odontoma, compound/complex odontoma, and DGCT",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "Ghost cells",
+          "image_url": "",
+          "etiology_clue": "(aberrant keratinization of odontogenic epithelium) Characteristic of calcifying cystic odontogenic tumour (CCOT / Gorlin cyst) and DGCT",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "enameloid",
+          "image_url": "",
+          "etiology_clue": "formation requires a healthy, two-way signaling interaction between epithelial cells (which resemble ameloblasts) and the mesenchymal cells (which resemble the dental papilla)",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "dentinoid",
+          "image_url": "",
+          "etiology_clue": "a collagenous, extracellular matrix that resembles dentin",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+        {
+          "answer": "cementoid",
+          "image_url": "",
+          "etiology_clue": "a cementum-like mineralized tissue commonly found in tumors of mesenchymal (ectomesenchymal) origin",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        },
+         {
+          "answer": "amyloid",
+          "image_url": "",
+          "etiology_clue": "misfolded or aggregated enamel matrix proteins",
+          "management_clue": "",
+          "note": "",
+          "source_filename": ""
+        }
+      ]
+    }
+  ]
+}
