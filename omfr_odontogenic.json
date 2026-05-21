@@ -5,7 +5,7 @@
       "label": "Odontogenic",
       "terms": [
         {
-          "answer": "epithelial origin, benign, enamel organ like, stellate reticulum, ameloblast-like reversed polarity cells, BRAF V600E",
+          "answer": "epithelial origin, benign, enamel organ like",
           "image_url": "",
           "etiology_clue": "Ameloblastoma",
           "management_clue": "",
@@ -13,7 +13,7 @@
           "source_filename": ""
         },
         {
-          "answer": "epithelial origin, benign, thick fibrous capsule, spindle shaped cells, rosettelike structures, amyloid, abortive enamel formations",
+          "answer": "epithelial origin, benign, thick fibrous capsule",
           "image_url": "",
           "etiology_clue": "Adenomatoid Odontogenic Tumor",
           "management_clue": "",
@@ -21,7 +21,7 @@
           "source_filename": ""
         },
         {
-          "answer": "epithelial origin, benign, polyhedral epithelial cells, amyloid-like, Liesegang ring calcifications",
+          "answer": "epithelial origin, benign, polyhedral epithelial cells",
           "image_url": "",
           "etiology_clue": "Calcifying Epithelial Odontogenic Tumor",
           "management_clue": "",
@@ -29,7 +29,7 @@
           "source_filename": ""
         },
         {
-          "answer": "epithelial origin, benign, squamous epithelium, dystrophic calcifications",
+          "answer": "epithelial origin, benign, squamous epithelium",
           "image_url": "",
           "etiology_clue": "Squamous Odontogenic Tumor",
           "management_clue": "",
@@ -37,7 +37,7 @@
           "source_filename": ""
         },
         {
-          "answer": "mixed origin, benign, resemble primitive dental papilla, long cords of odontogenic epithelium",
+          "answer": "mixed origin, benign, resemble primitive dental papilla",
           "image_url": "",
           "etiology_clue": "Ameloblastic Fibroma",
           "management_clue": "",
@@ -45,7 +45,7 @@
           "source_filename": ""
         },
         {
-          "answer": "mixed origin, benign, ameloblastic fibroma-like stroma with dentin and enamel matrix, considered developmental stage of complex odontoma",
+          "answer": "mixed origin, benign, ameloblastic fibroma-like stroma with dentin and enamel matrix",
           "image_url": "",
           "etiology_clue": "Ameloblastic Fibro-Odontoma",
           "management_clue": "",
@@ -53,7 +53,7 @@
           "source_filename": ""
         },
         {
-          "answer": "mixed origin, malignant, benign epithelial component with sarcomatous ectomesenchymal stroma, high mitotic index, may arise from ameloblastic fibroma",
+          "answer": "mixed origin, malignant, benign epithelial component with sarcomatous ectomesenchymal stroma",
           "image_url": "",
           "etiology_clue": "Ameloblastic Fibrosarcoma",
           "management_clue": "",
@@ -61,7 +61,7 @@
           "source_filename": ""
         },
         {
-          "answer": "mixed origin, benign, locally aggressive, ameloblastoma-like epithelium, hard tissue formation dentin/enamel, rare, high recurrence",
+          "answer": "mixed origin, benign, locally aggressive",
           "image_url": "",
           "etiology_clue": "Odontoameloblastoma",
           "management_clue": "",
@@ -69,7 +69,7 @@
           "source_filename": ""
         },
         {
-          "answer": "mixed origin, benign, most common odontogenic tumor, compound tooth-like denticles, complex disorganized dental hard tissues, hamartomatous",
+          "answer": "mixed origin, benign, most common odontogenic tumor",
           "image_url": "",
           "etiology_clue": "Odontoma",
           "management_clue": "",
@@ -77,7 +77,7 @@
           "source_filename": ""
         },
         {
-          "answer": "ectomesenchymal origin, benign, mature fibrous stroma with islands of inactive odontogenic epithelium, variable calcifications, intraosseous",
+          "answer": "ectomesenchymal origin, benign, mature fibrous stroma with islands of inactive odontogenic epithelium",
           "image_url": "",
           "etiology_clue": "Central Odontogenic Fibroma",
           "management_clue": "",
@@ -85,7 +85,7 @@
           "source_filename": ""
         },
         {
-          "answer": "ectomesenchymal origin, benign, gingival soft tissue mass, fibrous stroma with odontogenic epithelial rests, cementum-like or dysplastic calcifications",
+          "answer": "ectomesenchymal origin, benign, gingival soft tissue mass",
           "image_url": "",
           "etiology_clue": "Peripheral Odontogenic Fibroma",
           "management_clue": "",
@@ -93,7 +93,7 @@
           "source_filename": ""
         },
         {
-          "answer": "ectomesenchymal origin, benign, large granular cells with eosinophilic lysozyme-rich cytoplasm, strands of odontogenic epithelium, rare, central jaw lesion",
+          "answer": "ectomesenchymal origin, benign, large granular cells with eosinophilic lysozyme-rich cytoplasm",
           "image_url": "",
           "etiology_clue": "Granular Cell Odontogenic Tumor",
           "management_clue": "",
@@ -101,7 +101,7 @@
           "source_filename": ""
         },
         {
-          "answer": "ectomesenchymal origin, benign but locally aggressive, loose myxoid stroma, stellate and spindle cells, sparse collagen, no encapsulation, high recurrence post-curettage",
+          "answer": "ectomesenchymal origin, benign but locally aggressive",
           "image_url": "",
           "etiology_clue": "Odontogenic Myxoma",
           "management_clue": "",
@@ -109,7 +109,7 @@
           "source_filename": ""
         },
         {
-          "answer": "ectomesenchymal origin, benign, fused to root apex, mandibular molars/premolars, sheets of cementum-like hard tissue with reversal lines, pain, root resorption",
+          "answer": "ectomesenchymal origin, benign, fused to root apex",
           "image_url": "",
           "etiology_clue": "Cementoblastoma",
           "management_clue": "",
