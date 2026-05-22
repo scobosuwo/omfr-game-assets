@@ -30,14 +30,11 @@
           "requiresTooth": false,
           "lateral": false,
           "children":[
-            { "label": "E1", "lateral": false, "requiresTooth": true },
-            { "label": "E2", "lateral": false, "requiresTooth": true },
-            { "label": "D1", "lateral": false, "requiresTooth": true },
-            { "label": "D2", "lateral": false, "requiresTooth": true },
-            { "label": "D3", "lateral": false, "requiresTooth": true },
-            { "label": "root", "lateral": false, "requiresTooth": true },
-            { "label": "recurrent", "lateral": false, "requiresTooth": true },
-            { "label": "gross", "lateral": false, "requiresTooth": true }
+            { "label": "Enamel caries", "lateral": false, "requiresTooth": true },
+            { "label": "Dentinal caries", "lateral": false, "requiresTooth": true },
+            { "label": "Root caries", "lateral": false, "requiresTooth": true },
+            { "label": "Recurrent caries", "lateral": false, "requiresTooth": true },
+            { "label": "Gross caries", "lateral": false, "requiresTooth": true }
           ]
         },
         {
@@ -57,14 +54,19 @@
           "lateral": false
         },
         {
-          "label": "Dilacerated",
+          "label": "Dilacerated root",
           "requiresTooth": true,
           "lateral": false
         },
         {
-          "label": "Generalized periodontal bone loss",
+          "label": "Periodontal bone loss",
           "requiresTooth": false,
-          "lateral": false
+          "lateral": false,
+          "children":[
+            { "label": "Horizontal", "lateral": false, "requiresTooth": false, "children":[{ "label": "Generalized", "lateral": false, "requiresTooth": false }, { "label": "Localized", "lateral": false, "requiresTooth": false }] },
+            { "label": "Vertical", "lateral": false, "requiresTooth": false },
+            { "label": "Furcation involvement", "lateral": false, "requiresTooth": true }
+          ]
         }
       ]
     }
