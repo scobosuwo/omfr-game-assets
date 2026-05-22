@@ -32,12 +32,13 @@
         },
         {
           "label": "Impacted",
-          "requiresTooth": true,
+          "requiresTooth": false,
           "lateral": false,
           "children":[
-            { "label": "Mesioangularly impacted", "lateral": false },
-            { "label": "Distoangularly impacted", "lateral": false },
-            { "label": "Horizontally impacted", "lateral": false }
+            { "label": "Vertically impacted", "lateral": false, "requiresTooth": true },
+            { "label": "Mesioangularly impacted", "lateral": false, "requiresTooth": true },
+            { "label": "Distoangularly impacted", "lateral": false, "requiresTooth": true },
+            { "label": "Horizontally impacted", "lateral": false, "requiresTooth": true }
           ]
         },
         {
