@@ -31,6 +31,16 @@
           "lateral": false
         },
         {
+          "label": "Impacted",
+          "requiresTooth": true,
+          "lateral": false,
+          "children":[
+            { "label": "Mesioangularly impacted", "lateral": false },
+            { "label": "Distoangularly impacted", "lateral": false },
+            { "label": "Horizontally impacted", "lateral": false }
+          ]
+        },
+        {
           "label": "Generalized periodontal bone loss",
           "requiresTooth": false,
           "lateral": false
