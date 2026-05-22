@@ -63,7 +63,77 @@
           "requiresTooth": false,
           "lateral": false,
           "children":[
-            { "label": "Horizontal", "lateral": false, "requiresTooth": false, "children":[{ "label": "Generalized", "lateral": false, "requiresTooth": false }, { "label": "Localized", "lateral": false, "requiresTooth": false }] },
+            { 
+              "label": "Horizontal",
+              "lateral": false,
+              "requiresTooth": false,
+              "children":[
+                {
+                  "label": "Generalized",
+                  "lateral": false,
+                  "requiresTooth": false,
+                  "children":[
+                    {
+                      "label": "Generalized mild horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized mild-to-moderate horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized moderate horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized moderate-to-severe horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized severe horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    }
+                  ]
+                },
+                { 
+                  "label": "Localized",
+                  "lateral": false,
+                  "requiresTooth": false,
+                  "children":[
+                    {
+                      "label": "Localized mild horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized mild-to-moderate horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized moderate horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized moderate-to-severe horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized severe horizontal periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    }
+                  ]
+                }
+              ]
+            },
             { "label": "Vertical", "lateral": false, "requiresTooth": false },
             { "label": "Furcation involvement", "lateral": false, "requiresTooth": true }
           ]
