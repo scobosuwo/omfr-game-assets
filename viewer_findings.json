@@ -27,8 +27,18 @@
       "children": [
         {
           "label": "Caries",
-          "requiresTooth": true,
-          "lateral": false
+          "requiresTooth": false,
+          "lateral": false,
+          "children":[
+            { "label": "E1", "lateral": false, "requiresTooth": true },
+            { "label": "E2", "lateral": false, "requiresTooth": true },
+            { "label": "D1", "lateral": false, "requiresTooth": true },
+            { "label": "D2", "lateral": false, "requiresTooth": true },
+            { "label": "D3", "lateral": false, "requiresTooth": true },
+            { "label": "root", "lateral": false, "requiresTooth": true },
+            { "label": "recurrent", "lateral": false, "requiresTooth": true },
+            { "label": "gross", "lateral": false, "requiresTooth": true }
+          ]
         },
         {
           "label": "Impacted",
@@ -40,6 +50,16 @@
             { "label": "Distoangularly impacted", "lateral": false, "requiresTooth": true },
             { "label": "Horizontally impacted", "lateral": false, "requiresTooth": true }
           ]
+        },
+        {
+          "label": "Retained",
+          "requiresTooth": true,
+          "lateral": false
+        },
+        {
+          "label": "Dilacerated",
+          "requiresTooth": true,
+          "lateral": false
         },
         {
           "label": "Generalized periodontal bone loss",
