@@ -13,27 +13,27 @@
               "children":[
                 {
                   "label": "Stylohyoid ligament calcification",
-                  "lateral": true, 
+                  "lateral": true 
                 },
                 {
                   "label": "Palatine tonsillolith",
-                  "lateral": true, 
+                  "lateral": true
                 },
                 {
                   "label": "Lingual tonsillolith",
-                  "lateral": false, 
+                  "lateral": false 
                 },
                 {
                   "label": "Tyroid cartilage calcification",
-                  "lateral": false, 
+                  "lateral": false 
                 },
                 {
                   "label": "Triticeous cartilage calcification",
-                  "lateral": true, 
+                  "lateral": true 
                 },
                 {
                   "label": "Carotid artery/vascular calcification",
-                  "lateral": true, 
+                  "lateral": true 
                 }
               ]
             },
