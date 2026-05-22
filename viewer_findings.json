@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "children": [
+    {
+      "label": "Gnathic",
+      "children": [
+        {
+          "label": "Soft tissues",
+          "children": [
+            { "label": "Calcification of the stylohyoid ligament", "lateral": true },
+            { "label": "Submandibular Sialolith", "lateral": true },
+            { "label": "Lingual Tonsillolith", "lateral": false }
+          ]
+        },
+        {
+          "label": "Hard tissues",
+          "children": [
+            { "label": "Lateral odontogenic lesion", "lateral": true },
+            { "label": "Mid-line odontogenic lesion", "lateral": false },
+            { "label": "Sialolith", "lateral": true }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dental",
+      "children": [
+        {
+          "label": "Caries",
+          "requiresTooth": true,
+          "lateral": false
+        },
+        {
+          "label": "Generalized periodontal bone loss",
+          "requiresTooth": false,
+          "lateral": false
+        }
+      ]
+    }
+  ]
+}
