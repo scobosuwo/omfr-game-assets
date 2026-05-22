@@ -7,9 +7,44 @@
         {
           "label": "Soft tissues",
           "children": [
-            { "label": "Calcification of the stylohyoid ligament", "lateral": true },
-            { "label": "Submandibular Sialolith", "lateral": true },
-            { "label": "Lingual Tonsillolith", "lateral": false }
+            { 
+              "label": "Distrophic calcifications",
+              "lateral": false,
+              "children":[
+                {
+                  "label": "Stylohyoid ligament calcification",
+                  "lateral": true, 
+                },
+                {
+                  "label": "Palatine tonsillolith",
+                  "lateral": true, 
+                },
+                {
+                  "label": "Lingual tonsillolith",
+                  "lateral": false, 
+                },
+                {
+                  "label": "Tyroid cartilage calcification",
+                  "lateral": false, 
+                },
+                {
+                  "label": "Triticeous cartilage calcification",
+                  "lateral": true, 
+                },
+                {
+                  "label": "Carotid artery/vascular calcification",
+                  "lateral": true, 
+                }
+              ]
+            },
+            { 
+              "label": "Submandibular Sialolith",
+              "lateral": true
+            },
+            { 
+              "label": "Lingual Tonsillolith",
+              "lateral": false
+            }
           ]
         },
         {
@@ -134,7 +169,77 @@
                 }
               ]
             },
-            { "label": "Vertical", "lateral": false, "requiresTooth": false },
+            { 
+              "label": "Vertical",
+              "lateral": false,
+              "requiresTooth": false,
+              "children":[
+                {
+                  "label": "Generalized",
+                  "lateral": false,
+                  "requiresTooth": false,
+                  "children":[
+                    {
+                      "label": "Generalized mild vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized mild-to-moderate vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized moderate vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized moderate-to-severe vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Generalized severe vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    }
+                  ]
+                },
+                { 
+                  "label": "Localized",
+                  "lateral": false,
+                  "requiresTooth": false,
+                  "children":[
+                    {
+                      "label": "Localized mild vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized mild-to-moderate vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized moderate vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized moderate-to-severe vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    },
+                    {
+                      "label": "Localized severe vertical periodontal bone loss",
+                      "lateral": false,
+                      "requiresTooth": false
+                    }
+                  ]
+                }
+              ]
+            },
             { "label": "Furcation involvement", "lateral": false, "requiresTooth": true }
           ]
         }
