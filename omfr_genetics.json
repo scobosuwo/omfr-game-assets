@@ -67,6 +67,14 @@
           "management_clue": "The beta-globin gene producing haemoglobin S that polymerises under hypoxic conditions.",
           "note": "",
           "source_filename": "null"
+        },
+        {
+          "answer": "KRAS",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_015.jpg",
+          "etiology_clue": "Adenomatoid odontogenic tumor",
+          "management_clue": "This protein acts as a cellular switch regulating cell growth division and maturation",
+          "note": "",
+          "source_filename": "null"
         }
       ]
     }
