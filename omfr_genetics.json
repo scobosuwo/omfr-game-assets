@@ -13,6 +13,14 @@
           "source_filename": "2026-04-25 13_39_52-Fibrous dysplasia of bone.png"
         },
         {
+          "answer": "APC",
+          "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_016.jpg",
+          "etiology_clue": "Gardner Syndrome",
+          "management_clue": "APC gene is located on chromosome 5q21. In healthy individuals, it produces a protein that keeps cell growth in check. Mutations in this gene disrupt cell division, leading to uncontrollable growth",
+          "note": "",
+          "source_filename": ""
+        },
+        {
           "answer": "RUNX2",
           "image_url": "https://raw.githubusercontent.com/scobosuwo/omfr-game-assets/main/images/pathology/pathology_012.jpg",
           "etiology_clue": "Cleidocranial dysplasia",
