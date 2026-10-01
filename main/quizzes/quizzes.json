@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "quizzes": [
+    {
+      "code": "2026_Test_001",
+      "title": "Lateral ceph anatomy",
+      "key": "keys/2026_Test_001.oradkey",
+      "listed": true
+    }
+  ]
+}
