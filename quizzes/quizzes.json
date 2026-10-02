@@ -6,6 +6,12 @@
       "title": "Lateral ceph anatomy",
       "key": "keys/2026_Test_001.oradkey",
       "listed": true
+    },
+    {
+      "code": "2026_Test_002",
+      "title": "Panoramic anatomy",
+      "key": "keys/2026_Test_002.oradkey",
+      "listed": true
     }
   ]
 }
